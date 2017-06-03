@@ -1,0 +1,23 @@
+{
+  "Argentina": { "Unemployed":181984, "Economically Active Population":1074952, "Employed":892968},
+  "Bahamas": { "Unemployed":6213, "Economically Active Population":24852, "Employed":18639},
+  "Bolivia": { "Unemployed":31626, "Economically Active Population":543976, "Employed":512350},
+  "Brazil": { "Unemployed":2061699, "Economically Active Population":10769805, "Employed":8708106},
+  "Barbados": { "Unemployed":2843, "Economically Active Population":10509, "Employed":7666},
+  "Chile": { "Unemployed":105185, "Economically Active Population":578583, "Employed":473398},
+  "Colombia": { "Unemployed":349733, "Economically Active Population":2533253, "Employed":2183520},
+  "Costa Rica": { "Unemployed":41196, "Economically Active Population":222222, "Employed":181026},
+  "Dominican Republic": { "Unemployed":38062, "Economically Active Population":555204, "Employed":517142},
+  "Ecuador": { "Unemployed":60429, "Economically Active Population":776826, "Employed":716397},
+  "Guatemala": { "Unemployed":45936, "Economically Active Population":1330913, "Employed":1284977},
+  "Honduras": { "Unemployed":59569, "Economically Active Population":656451, "Employed":596882},
+  "Jamaica": { "Unemployed":29964, "Economically Active Population":114309, "Employed":84345},
+  "Mexico": { "Unemployed":629810, "Economically Active Population":6767635, "Employed":6137825},
+  "Nicaragua": { "Unemployed":28455, "Economically Active Population":456076, "Employed":427621},
+  "Panama": { "Unemployed":22812, "Economically Active Population":193637, "Employed":170825},
+  "Peru": { "Unemployed":140438, "Economically Active Population":1623181, "Employed":1482743},
+  "Paraguay": { "Unemployed":55533, "Economically Active Population":481287, "Employed":425754},
+  "El Salvador": { "Unemployed":29475, "Economically Active Population":381636, "Employed":352161},
+  "Uruguay": { "Unemployed":28840, "Economically Active Population":158661, "Employed":129821},
+  "Venezuela": { "Unemployed":166307, "Economically Active Population":1395547, "Employed":1229240}
+}

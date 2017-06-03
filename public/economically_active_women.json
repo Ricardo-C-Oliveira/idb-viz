@@ -1,0 +1,23 @@
+{
+  "Argentina": { "Unemployed":136699, "Economically Active Population":608338, "Employed":471639},
+  "Bahamas": { "Unemployed":6840, "Economically Active Population":21318, "Employed":14478},
+  "Bolivia": { "Unemployed":30975, "Economically Active Population":358749, "Employed":327774},
+  "Brazil": { "Unemployed":2248935, "Economically Active Population":7887454, "Employed":5638519},
+  "Barbados": { "Unemployed":2630, "Economically Active Population":8487, "Employed":5857},
+  "Chile": { "Unemployed":94847, "Economically Active Population":439698, "Employed":344851},
+  "Colombia": { "Unemployed":454956, "Economically Active Population":1882076, "Employed":1427120},
+  "Costa Rica": { "Unemployed":34489, "Economically Active Population":143345, "Employed":108856},
+  "Dominican Republic": { "Unemployed":67594, "Economically Active Population":282246, "Employed":214652},
+  "Ecuador": { "Unemployed":51288, "Economically Active Population":450665, "Employed":399377},
+  "Guatemala": { "Unemployed":48876, "Economically Active Population":526354, "Employed":477478},
+  "Honduras": { "Unemployed":56347, "Economically Active Population":320123, "Employed":263776},
+  "Jamaica": { "Unemployed":35983, "Economically Active Population":82538, "Employed":46555},
+  "Mexico": { "Unemployed":307401, "Economically Active Population":3968290, "Employed":3660889},
+  "Nicaragua": { "Unemployed":27086, "Economically Active Population":211453, "Employed":184367},
+  "Panama": { "Unemployed":21298, "Economically Active Population":107932, "Employed":86634},
+  "Peru": { "Unemployed":101739, "Economically Active Population":1256214, "Employed":1154475},
+  "Paraguay": { "Unemployed":38777, "Economically Active Population":283585, "Employed":244808},
+  "El Salvador": { "Unemployed":18762, "Economically Active Population":195496, "Employed":176734},
+  "Uruguay": { "Unemployed":26939, "Economically Active Population":112526, "Employed":85587},
+  "Venezuela": { "Unemployed":115469, "Economically Active Population":662992, "Employed":547523}
+}
