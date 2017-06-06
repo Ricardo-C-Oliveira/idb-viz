@@ -16,7 +16,7 @@
     "topojson-client": "^3.0.0"
   },
   "devDependencies": {
-    "react-scripts": "0.9.x"
+    "react-scripts": "1.0.7"
   },
   "scripts": {
     "start": "react-scripts start",
